@@ -6,9 +6,9 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 [2. MedMij Core: Contact 1.0.0-rc3](#2-medmij-core-contact-100-rc3)
 [2.1 Encounter: 20-05-2026](#21-encounter-20-05-2026)
 [2.2 Encounter: 20-05-2025](#22-encounter-20-05-2025)
-[3. MedMij Core: Patient 1.0.0-rc.3](#3-medmij-core-patient-100-rc3)
-[3.1 Patient: Erik van Oranje](#31-patient-erik-van-oranje)
-[3.2 Contact Person: Leo Jansen](#32-contact-person-leo-jansen)
+[3. MedMij Core: Patiënt 1.0.0-rc.3](#3-medmij-core-patiënt-100-rc3)
+[3.1 Patiënt: Erik van Oranje](#31-patiënt-erik-van-oranje)
+[3.2 Contactpersoon: Leo Jansen](#32-contactpersoon-leo-jansen)
 [4. MedMij Core: Betaler 1.0.0-rc3](#4-medmij-core-betaler-100-rc3)
 [4.1 Payer: Erik van Oranje](#41-payer-erik-van-oranje)
 [4.2 Payer: Zorgkantoor Noorderlicht](#42-payer-zorgkantoor-noorderlicht)
@@ -18,15 +18,15 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 [6. MedMij Core: Health Professional data 1.0.0-rc.3 (referentiedata)](#6-medmij-core-health-professional-data-100-rc3-referentiedata)
 [6.1 Health Professional: A.B.D.O. de Koning](#61-health-professional-abdo-de-koning)
 [6.2 Health Professional: S. Vermeer](#62-health-professional-s-vermeer)
-[7 MedMij Core: Healthcare Provider 1.0.0-rc.3 (referentiedata)](#7-medmij-core-healthcare-provider-100-rc3-referentiedata)
+[7. MedMij Core: Healthcare Provider 1.0.0-rc.3 (referentiedata)](#7-medmij-core-healthcare-provider-100-rc3-referentiedata)
 [7.1 Healthcare Provider: Mondzorgcentrum Lindenhof](#71-healthcare-provider-mondzorgcentrum-lindenhof)
 [7.2 Healthcare Provider: Praktijklocatie Lindenhof](#72-healthcare-provider-praktijklocatie-lindenhof)
 [8. Verzamelen Mondzorg: Cariësrisico 1.0.0-rc2](#8-verzamelen-mondzorg-cariësrisico-100-rc2)
 [9. Verzamelen Mondzorg: Dental Fitness 1.0.0-rc2](#9-verzamelen-mondzorg-dental-fitness-100-rc2)
 [10. Verzamelen Mondzorg: Mondhygiëne 1.0.0-rc2](#10-verzamelen-mondzorg-mondhygiëne-100-rc2)
 [11. Verzamelen Mondzorg: Parafunctionele activiteit 1.0.0-rc2](#11-verzamelen-mondzorg-parafunctionele-activiteit-100-rc2)
-[12. Verzamelen Mondzorg - Periodieke Parodontale Screening-score 1.0.0-rc2](#12-verzamelen-mondzorg---periodieke-parodontale-screening-score-100-rc2)
-[13. Verzamelen Mondzorg - Verrichting 1.0.0-rc2](#13-verzamelen-mondzorg---verrichting-100-rc2)
+[12. Verzamelen Mondzorg: Periodieke Parodontale Screening-score 1.0.0-rc2](#12-verzamelen-mondzorg-periodieke-parodontale-screening-score-100-rc2)
+[13. Verzamelen Mondzorg: Verrichting 1.0.0-rc2](#13-verzamelen-mondzorg-verrichting-100-rc2)
 
 ## 1. MedMij Core: ASA-score 1.0.0-rc3
 
@@ -84,9 +84,9 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 
 [Terug naar boven](#testdossier1-xxx_vanoranje)
 
-## 3. MedMij Core: Patient 1.0.0-rc.3
+## 3. MedMij Core: Patiënt 1.0.0-rc.3
 
-### 3.1 Patient: Erik van Oranje
+### 3.1 Patiënt: Erik van Oranje
 
 |Veld|Waarde|
 |:--|:--|
@@ -123,7 +123,7 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 |DeathIndicator|Nee|
 |DateOfDeath||
 
-### 3.2 Contact Person: Leo Jansen
+### 3.2 Contactpersoon: Leo Jansen
 
 |Veld|Waarde|
 |:--|:--|
@@ -345,7 +345,7 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 
 [Terug naar boven](#testdossier1-xxx_vanoranje)
 
-## 7 MedMij Core: Healthcare Provider 1.0.0-rc.3 (referentiedata)
+## 7. MedMij Core: Healthcare Provider 1.0.0-rc.3 (referentiedata)
 
 ### 7.1 Healthcare Provider: Mondzorgcentrum Lindenhof
 
@@ -461,7 +461,7 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 
 [Terug naar boven](#testdossier1-xxx_vanoranje)
 
-## 12. Verzamelen Mondzorg - Periodieke Parodontale Screening-score 1.0.0-rc2
+## 12. Verzamelen Mondzorg: Periodieke Parodontale Screening-score 1.0.0-rc2
 
 |Veld|Waarde|
 |:--|:--|
@@ -475,7 +475,7 @@ Bron: [MedMij R4 DentalCare IG — versie 1.0.0-rc.2](https://simplifier.net/gui
 
 [Terug naar boven](#testdossier1-xxx_vanoranje)
 
-## 13. Verzamelen Mondzorg - Verrichting 1.0.0-rc2
+## 13. Verzamelen Mondzorg: Verrichting 1.0.0-rc2
 
 |Veld|Waarde|
 |:--|:--|
